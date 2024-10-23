@@ -21,5 +21,6 @@
     "workbench.editor.enablePreview": false,
     "window.menuBarVisibility": "compact",
     "workbench.editor.editorActionsLocation": "hidden",
-    "window.commandCenter": true
+    "window.commandCenter": true,
+    "editor.mouseWheelZoom": true
 }
